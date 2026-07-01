@@ -34,7 +34,7 @@ Hi! I'm Melih Emre Güler. I am passionate about backend development, especially
 [![melihemreguler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melihemreguler&theme=github-compact&area=true&hide_border=false&days=40&grid=true&radius=10&bg_color=141515)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/melihemreguler/claude-code-sync/pull/20) in [melihemreguler/claude-code-sync](https://github.com/melihemreguler/claude-code-sync)
+1. 🎉 Merged PR [#21](https://github.com/melihemreguler/claude-code-sync/pull/21) in [melihemreguler/claude-code-sync](https://github.com/melihemreguler/claude-code-sync)
 <!--END_SECTION:activity-->
 
 ## Pinned Repositories
